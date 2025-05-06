@@ -16,7 +16,7 @@ Repozitář k navazujícímu kurzu Pythonu
 |       | 2025-04-21 |        |        | Velikonční pondělí                       |
 |    10 | 2025-04-28 | Luděk  | 2:30 h | [API][api]                               |
 |    11 | 2025-05-05 | Luděk  | 2:30 h | [Web scraping][webscraping]              |
-|    12 | 2025-05-12 | ???    |        | ???                                      |
+|    12 | 2025-05-12 | Ondra  |        | Objektově orientované programování       |
 |    13 | 2025-05-19 | Luděk  | 2:30 h | Vizualizace                              |
 
 [cykly]: https://kodim.cz/czechitas/uvod-do-progr-2/bonusy/cykly-2/cyklus-s-ciselnou-radou
